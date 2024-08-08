@@ -12,7 +12,7 @@ const FloatingImages = () => {
             className="w-[100px] h-auto md:w-[150px] lg:w-[200px] float-animation transition-transform duration-300 transform hover:scale-105"
           />
         </a>
-        <a href="https://t.me/" target="_blank" rel="noopener noreferrer">
+        <a href="https://t.me/SNOOZY2MILLIONS" target="_blank" rel="noopener noreferrer">
           <img
             src={cardImage1}
             alt="Link to Site 2"
