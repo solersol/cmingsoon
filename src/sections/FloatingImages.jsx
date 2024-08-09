@@ -32,7 +32,7 @@ import { img1, cardImage1 } from '../assets/images'; // Replace with your actual
 
 const FloatingImages = () => {
   return (
-    <section className="w-full h-screen flex justify-center items-center ">
+    <section className="w-full h-screen flex justify-center items-center bg-black ">
       <div className="flex space-x-12 mt-32">
         <a
           href="https://x.com/MewFishsol"
