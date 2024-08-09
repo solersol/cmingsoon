@@ -53,7 +53,7 @@ const FloatingImages = () => {
           <img
             src={cardImage1}
             alt="Link to Site 2"
-            className="w-[140px] md:w-[200px] lg:w-[260px] spin-animation transition-transform duration-700 transform hover:scale-110 hover:-rotate-12 shadow-lg rounded-fulls"
+            className="w-[140px] md:w-[200px] lg:w-[260px] spin-animation transition-transform duration-700 transform hover:scale-110 hover:-rotate-12 shadow-lg rounded-full"
           />
         </a>
       </div>
